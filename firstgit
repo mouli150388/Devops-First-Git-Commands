@@ -1,0 +1,10 @@
+s is First Project to check Git commands
+To create GIt Repo locally we will use below command
+git init
+
+git status-> Which will tells the current state of the changes
+
+git add filename -> this will add the file to local repo/stash the file
+
+git commit -m "commit message" / track the files
+
