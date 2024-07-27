@@ -1,0 +1,8 @@
+s file contains how to create branch and branch details
+
+git branch branchname
+
+Switch to new branch
+git checkout -b branch name
+
+
