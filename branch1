@@ -5,4 +5,5 @@ git branch branchname
 Switch to new branch
 git checkout -b branch name
 
+git merge branchname
 
